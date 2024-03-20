@@ -825,17 +825,18 @@ Banner Style
 .main-banner {
   position: relative;
   padding: 295px 0px 185px 0px;
-  bottom: 150px;
+  bottom: 100px;
 }
 
+
 .main-banner:after {
-  content: url(../images/12235_pixian_ai.png);
+  content: url(../images/b9cd5e23-6f01-4471-89d3-9a7c976b4660-1_pixian_ai.png);
   top: 250px;
   right: 0px;
   left: 800px;
   position: absolute;
-  width: 1000px;
-  height: 1000px;
+  width: 200px;
+  height: 200px;
   z-index: -1;
 }
 
