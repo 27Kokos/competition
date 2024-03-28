@@ -1,51 +1,12 @@
-<!DOCTYPE html>
-<html lang="en">
-
-  <head>
-
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
-    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
-
-    <title>Kokodjam</title>
-
-    <!-- Bootstrap core CSS -->
-    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-
-    <!--Icons-->
-    <link rel="apple-touch-icon" sizes="180x180" href="/Kok/assets/images/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="/Kok/assets/images/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="/Kok/assets/images/favicon-16x16.png">
-    <link rel="manifest" href="/Kok/assets/images/site.webmanifest">
+<?php include 'Kok/php/header.php';?>
 
 
-    <!-- Additional CSS Files -->
-    <link rel="stylesheet" href="assets/css/fontawesome.css">
-    <link rel="stylesheet" href="assets/css/templatemo-tale-seo-agency.css">
-    <link rel="stylesheet" href="assets/css/owl.css">
-    <link rel="stylesheet" href="assets/css/animate.css">
-    <link rel="stylesheet"href="https://unpkg.com/swiper@7/swiper-bundle.min.css"/>
-<!--
 
-
--->
   </head>
 
 <body>
 
-  <!-- ***** Preloader Start ***** -->
-  <div id="js-preloader" class="js-preloader">
-    <div class="preloader-inner">
-      <span class="dot"></span>
-      <div class="dots">
-        <span></span>
-        <span></span>
-        <span></span>
-      </div>
-    </div>
-  </div>
-  <!-- ***** Preloader End ***** -->
+  
 
   
 
@@ -57,7 +18,7 @@
                 <nav class="main-nav">
                     <!-- ***** Logo Start ***** -->
                     <a href="index.html" class="logo">
-                        <img src="assets/images/LogoWhite.png" alt="" style="max-width: 112px;">
+                        <img src="/kok/assets/images/LogoWhite.png" alt="" style="max-width: 112px;">
                     </a>
                     <!-- ***** Logo End ***** -->
                     <!-- ***** Menu Start ***** -->
@@ -119,7 +80,7 @@
             <div class="col-lg-6 col-sm-6">
               <div class="service-item">
                 <div class="icon">
-                  <img src="assets/images/money_13909838.png" alt="discover SEO" class="templatemo-feature">
+                  <img src="/kok/assets/images/money_13909838.png" alt="discover SEO" class="templatemo-feature">
                 </div>
                 <h4>Финансы</h4>
               </div>
@@ -127,7 +88,7 @@
             <div class="col-lg-6 col-sm-6">
               <div class="service-item">
                 <div class="icon">
-                  <img src="assets/images/phonendoscope_10737052.png" alt="data analysis" class="templatemo-feature">
+                  <img src="/kok/assets/images/phonendoscope_10737052.png" alt="data analysis" class="templatemo-feature">
                 </div>
                 <h4>Медицина</h4>
               </div>
@@ -135,7 +96,7 @@
             <div class="col-lg-6 col-sm-6">
               <div class="service-item">
                 <div class="icon">
-                  <img src="assets/images/keywords_7204321.png" alt="precise data" class="templatemo-feature">
+                  <img src="/kok/assets/images/keywords_7204321.png" alt="precise data" class="templatemo-feature">
                 </div>
                 <h4>SEO Продвижение &amp; Социальные сети </h4>
               </div>
@@ -143,7 +104,7 @@
             <div class="col-lg-6 col-sm-6">
               <div class="service-item">
                 <div class="icon">
-                  <img src="assets/images/drawing-tool_10338915.png" alt="SEO marketing" class="templatemo-feature">
+                  <img src="/kok/assets/images/drawing-tool_10338915.png" alt="SEO marketing" class="templatemo-feature">
                 </div>
                 <h4>Дизайн</h4>
               </div>
@@ -162,7 +123,7 @@
             <div class="row">
               <div class="col-lg-6">
                 <div class="left-image">
-                  <img src="assets/images/left-infos.jpg" alt="">
+                  <img src="/kok/assets/images/left-infos.jpg" alt="">
                 </div>
               </div>
               <div class="col-lg-6">
@@ -220,42 +181,42 @@
         <div class="col-lg-12">
           <div class="owl-features owl-carousel">
             <div class="item">
-              <img src="assets/images/projects-01.jpg" alt="">
+              <img src="/kok/assets/images/projects-01.jpg" alt="">
               <div class="down-content">
                 <h4>Digital Agency HTML Templates</h4>
                 <a href="#"><i class="fa fa-link"></i></a>
               </div>
             </div>
             <div class="item">
-              <img src="assets/images/projects-02.jpg" alt="">
+              <img src="/kok/assets/images/projects-02.jpg" alt="">
               <div class="down-content">
                 <h4>Admin Dashboard CSS Templates</h4>
                 <a href="#"><i class="fa fa-link"></i></a>
               </div>
             </div>
             <div class="item">
-              <img src="assets/images/projects-03.jpg" alt="">
+              <img src="/kok/assets/images/projects-03.jpg" alt="">
               <div class="down-content">
                 <h4>Best Responsive Website Layouts</h4>
                 <a href="#"><i class="fa fa-link"></i></a>
               </div>
             </div>
             <div class="item">
-              <img src="assets/images/projects-04.jpg" alt="">
+              <img src="/kok/assets/images/projects-04.jpg" alt="">
               <div class="down-content">
                 <h4>HTML CSS Layouts for your websites</h4>
                 <a href="#"><i class="fa fa-link"></i></a>
               </div>
             </div>
             <div class="item">
-              <img src="assets/images/projects-02.jpg" alt="">
+              <img src="/kok/assets/images/projects-02.jpg" alt="">
               <div class="down-content">
                 <h4>Bootstrap 5 Themes for Free</h4>
                 <a href="#"><i class="fa fa-link"></i></a>
               </div>
             </div>
             <div class="item">
-              <img src="assets/images/projects-03.jpg" alt="">
+              <img src="/kok/assets/images/projects-03.jpg" alt="">
               <div class="down-content">
                 <h4>Mobile Friendly Website Layouts</h4>
                 <a href="#"><i class="fa fa-link"></i></a>
@@ -267,139 +228,7 @@
     </div>
   </div>
 
-  <div class="contact-us section" id="contact">
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-12">
-          <div class="contact-us-content">
-            <div class="row">
-              <div class="col-lg-4">
-                <div id="map">
-                  <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d12469.776493332698!2d-80.14036379941481!3d25.907788681148624!2m3!1f357.26927939317244!2f20.870722720054623!3f0!3m2!1i1024!2i768!4f35!3m3!1m2!1s0x88d9add4b4ac788f%3A0xe77469d09480fcdb!2sSunny%20Isles%20Beach!5e1!3m2!1sen!2sth!4v1642869952544!5m2!1sen!2sth" width="100%" height="670px" frameborder="0" style="border:0; border-radius: 23px;" allowfullscreen=""></iframe>
-                </div>
-              </div>
-              <div class="col-lg-8">
-                <form id="contact-form" action="" method="post">
-                  <div class="row">
-                    <div class="col-lg-12">
-                      <div class="section-heading">
-                        <h2><em>Contact Us</em> &amp; Get In <span>Touch</span></h2>
-                      </div>
-                    </div>
-                    <div class="col-lg-6">
-                      <fieldset>
-                        <input type="name" name="name" id="name" placeholder="Your Name..." autocomplete="on" required>
-                      </fieldset>
-                    </div>
-                    <div class="col-lg-6">
-                      <fieldset>
-                        <input type="surname" name="surname" id="surname" placeholder="Your Surname..." autocomplete="on" required>
-                      </fieldset>
-                    </div>
-                    <div class="col-lg-6">
-                      <fieldset>
-                        <input type="text" name="email" id="email" pattern="[^ @]*@[^ @]*" placeholder="Your E-mail..." required="">
-                      </fieldset>
-                    </div>
-                    <div class="col-lg-6">
-                      <fieldset>
-                        <input type="subject" name="subject" id="subject" placeholder="Subject..." autocomplete="on" >
-                      </fieldset>
-                    </div>
-                    <div class="col-lg-12">
-                      <fieldset>
-                        <textarea name="message" id="message" placeholder="Your Message"></textarea>
-                      </fieldset>
-                    </div>
-                    <div class="col-lg-12">
-                      <fieldset>
-                        <button type="submit" id="form-submit" class="orange-button">Send Message Now</button>
-                      </fieldset>
-                    </div>
-                  </div>
-                </form>
-                <div class="more-info">
-                  <div class="row">
-                    <div class="col-lg-4">
-                      <div class="info-item">
-                        <i class="fa fa-phone"></i>
-                        <h4><a href="#">010-020-0340</a></h4>
-                      </div>
-                    </div>
-                    <div class="col-lg-4">
-                      <div class="info-item">
-                        <i class="fa fa-envelope"></i>
-                        <h4><a href="#">info@company.com</a></h4>
-                        <h4><a href="#">hello@company.com</a></h4>
-                      </div>
-                    </div>
-                    <div class="col-lg-4">
-                      <div class="info-item">
-                        <i class="fa fa-map-marker"></i>
-                        <h4><a href="#">Sunny Isles Beach, FL 33160, United States</a></h4>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-
-<!-- ***** Pre-Header Area Start ***** -->
-<div class="pre-header" id="top">
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-8 col-sm-9">
-        <div class="left-info">
-          <ul>
-            <li><a href="#"><i class="fa fa-phone"></i>+000 1234 5678</a></li>
-            <li><a href="#"><i class="fa fa-envelope"></i>infocompany@email.com</a></li>
-            <li><a href="#"><i class="fa fa-map-marker"></i>St. London 54th Bull</a></li>
-          </ul>
-        </div>
-      </div>
-      <div class="col-lg-4 col-sm-3">
-        <div class="social-icons">
-          <ul>
-            <li><a href="#"><i class="fab fa-facebook"></i></a></li>
-            <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-            <li><a href="#"><i class="fab fa-linkedin"></i></a></li>
-            <li><a href="#"><i class="fab fa-google-plus"></i></a></li>
-          </ul>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-<!-- ***** Pre-Header Area End ***** -->
-
-
-  <footer>
-    <div class="container">
-      <div class="col-lg-12">
-        <p>Copyright © 2036 <a href="#">Tale SEO Agency</a>. All rights reserved. 
-        
-        <br>Design: <a href="https://templatemo.com" target="_blank">TemplateMo</a></p>
-      </div>
-    </div>
-  </footer>
-
-
-  <!-- Scripts -->
-  <!-- Bootstrap core JavaScript -->
-  <script src="vendor/jquery/jquery.min.js"></script>
-  <script src="vendor/bootstrap/js/bootstrap.min.js"></script>
-
-  <script src="assets/js/isotope.min.js"></script>
-  <script src="assets/js/owl-carousel.js"></script>
-  <script src="assets/js/tabs.js"></script>
-  <script src="assets/js/popup.js"></script>
-  <script src="assets/js/custom.js"></script>
-
+  <?php include 'Kok/php/footer.php';?>
 
   </body>
 
