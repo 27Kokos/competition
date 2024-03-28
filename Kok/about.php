@@ -1,54 +1,9 @@
-<!DOCTYPE html>
-<html lang="en">
-
-  <head>
-
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
-    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
-
-    <title>Kokodjam</title>
-
-    <!-- Bootstrap core CSS -->
-    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-
-    <!--Icons-->
-    <link rel="apple-touch-icon" sizes="180x180" href="/Kok/assets/images/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="/Kok/assets/images/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="/Kok/assets/images/favicon-16x16.png">
-    <link rel="manifest" href="/Kok/assets/images/site.webmanifest">
-
-
-    <!-- Additional CSS Files -->
-    <link rel="stylesheet" href="assets/css/fontawesome.css">
-    <link rel="stylesheet" href="assets/css/templatemo-tale-seo-agency.css">
-    <link rel="stylesheet" href="assets/css/owl.css">
-    <link rel="stylesheet" href="assets/css/animate.css">
-    <link rel="stylesheet"href="https://unpkg.com/swiper@7/swiper-bundle.min.css"/>
-<!--
-
-TemplateMo 582 Tale SEO Agency
-
-https://templatemo.com/tm-582-tale-seo-agency
-
--->
+<?php include 'Kok/php/header.php';?>
   </head>
 
 <body>
 
-  <!-- ***** Preloader Start ***** -->
-  <div id="js-preloader" class="js-preloader">
-    <div class="preloader-inner">
-      <span class="dot"></span>
-      <div class="dots">
-        <span></span>
-        <span></span>
-        <span></span>
-      </div>
-    </div>
-  </div>
-  <!-- ***** Preloader End ***** -->
+
 
   
 
@@ -60,7 +15,7 @@ https://templatemo.com/tm-582-tale-seo-agency
                 <nav class="main-nav">
                     <!-- ***** Logo Start ***** -->
                     <a href="index.html" class="logo">
-                        <img src="assets/images/LogoWhite.png" alt="" style="max-width: 112px;">
+                        <img src="/kok/assets/images/LogoWhite.png" alt="" style="max-width: 112px;">
                     </a>
                     <!-- ***** Logo End ***** -->
                     <!-- ***** Menu Start ***** -->
@@ -71,8 +26,8 @@ https://templatemo.com/tm-582-tale-seo-agency
                       <li class="has-sub">
                           <a href="javascript:void(0)">Страницы</a>
                           <ul class="sub-menu">
-                              <li><a href="about.html">Об ИИ</a></li>
-                              <li><a href="faqs.html">FAQ</a></li>
+                              <li><a href="/kok/about.php">Об ИИ</a></li>
+                              <li><a href="/kok/faqs.php">FAQ</a></li>
                           </ul>
                       </li>
                       <li class="scroll-to-section"><a href="#contact">Контакты</a></li>

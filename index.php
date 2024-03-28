@@ -29,8 +29,8 @@
                       <li class="has-sub">
                           <a href="javascript:void(0)">Страницы</a>
                           <ul class="sub-menu">
-                              <li><a href="about.html">Об ИИ</a></li>
-                              <li><a href="faqs.html">FAQ</a></li>
+                              <li><a href="/kok/about.php">Об ИИ</a></li>
+                              <li><a href="/kok/faqs.php">FAQ</a></li>
                           </ul>
                       </li>
                       <li class="scroll-to-section"><a href="#contact">Контакты</a></li>
