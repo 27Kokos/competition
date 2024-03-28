@@ -54,7 +54,7 @@
             <h6>ИСКУССТВЕННЫЙ ИНТЕЛЛЕКТ</h6>
             <div class="line-dec"></div>
             <h4>Погрузимся<em> В мир </em> ИИ <span>С Kokodjam</span></h4>
-            <p>Здесь вы немного узнаете об искусственном интеллекте <a href="index.html">Домой</a>, <a href="about.html">Об ИИ</a>, and <a href="faqs.html">Часто задаваемые вопросы об ИИ</a>.</p>
+            <p>Здесь вы немного узнаете об искусственном интеллекте <a href="index.html">Домой</a>, <a href="about.html">Об ИИ</a>, и <a href="faqs.html">Часто задаваемые вопросы об ИИ</a>.</p>
             <div class="main-button scroll-to-section"><a href="#services">Узнайте больше</a></div>
             <span>или</span>
             <div class="second-button"><a href="faqs.html">FAQ</a></div>

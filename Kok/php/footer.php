@@ -14,7 +14,7 @@
                   <div class="row">
                     <div class="col-lg-12">
                       <div class="section-heading">
-                        <h2><em>Contact Us</em> &amp; Get In <span>Touch</span></h2>
+                        <h2><em>Напишите</em> &amp; Свяжитесь <span>С нами</span></h2>
                       </div>
                     </div>
                     <div class="col-lg-6">
