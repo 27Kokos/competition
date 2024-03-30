@@ -1,4 +1,4 @@
-<?php include 'Kok/php/header.php';?>
+<?php include '../Kok/php/header.php';?>
 
 
 
@@ -24,13 +24,11 @@
                     <!-- ***** Menu Start ***** -->
                     <ul class="nav">
                       <li class="scroll-to-section"><a href="#top" class="active">Главная</a></li>
-                      <li class="scroll-to-section"><a href="#services">Применение</a></li>
-                      <li class="scroll-to-section"><a href="#projects">ИИ Инструменты</a></li>
                       <li class="has-sub">
                           <a href="javascript:void(0)">Страницы</a>
                           <ul class="sub-menu">
-                              <li><a href="kok/about.php">Об ИИ</a></li>
-                              <li><a href="kok/faqs.php">FAQ</a></li>
+                              <li><a href="../kok/about.php">Об ИИ</a></li>
+                              <li><a href="../kok/faqs.php">FAQ</a></li>
                           </ul>
                       </li>
                       <li class="scroll-to-section"><a href="#contact">Контакты</a></li>
@@ -52,11 +50,15 @@
           <div class="caption  header-text">
             <h6>SEO DIGITAL AGENCY</h6>
             <div class="line-dec"></div>
-            <h4>Most Frequently Asked <em>Questions</em> Here <em>?</em></h4>
+            <h4>Discover More <em>About Us</em></h4>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed doers eiusmod tempor incididunt ut labore et dolore.</p>
+            <div class="main-button"><a href="#">Discover More</a></div>
+            <span>or</span>
+            <div class="second-button"><a href="#">Check our FAQs</a></div>
           </div>
         </div>
-        <div class="col-lg-5">
-          <img src="assets/images/faqs-image.jpg" alt="">
+        <div class="col-lg-5 align-self-center">
+          <img src="assets/images/about-us-image.jpg" alt="">
         </div>
       </div>
     </div>
@@ -215,72 +217,6 @@
     </div>
   </div>
 
-  <div class="cta section">
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-8">
-          <h4>Are You Ready To Work &amp; Develop With Us ?<br>Don't Hesitate &amp; Contact Us !</h4>
-        </div>
-        <div class="col-lg-4">
-          <div class="main-button">
-            <a href="#">Contact Us Now!</a>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-
-<!-- ***** Pre-Header Area Start ***** -->
-<div class="pre-header" id="top">
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-8 col-sm-9">
-        <div class="left-info">
-          <ul>
-            <li><a href="#"><i class="fa fa-phone"></i>+000 1234 5678</a></li>
-            <li><a href="#"><i class="fa fa-envelope"></i>infocompany@email.com</a></li>
-            <li><a href="#"><i class="fa fa-map-marker"></i>St. London 54th Bull</a></li>
-          </ul>
-        </div>
-      </div>
-      <div class="col-lg-4 col-sm-3">
-        <div class="social-icons">
-          <ul>
-            <li><a href="#"><i class="fab fa-facebook"></i></a></li>
-            <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-            <li><a href="#"><i class="fab fa-linkedin"></i></a></li>
-            <li><a href="#"><i class="fab fa-google-plus"></i></a></li>
-          </ul>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-<!-- ***** Pre-Header Area End ***** -->
-
-
-
-  <footer>
-    <div class="container">
-      <div class="col-lg-12">
-        <p>Copyright © 2036 <a href="#">Tale SEO Agency</a>. All rights reserved. 
-        
-        <br>Design: <a href="https://templatemo.com" target="_blank">TemplateMo</a></p>
-      </div>
-    </div>
-  </footer>
-
-
-  <!-- Scripts -->
-  <!-- Bootstrap core JavaScript -->
-  <script src="vendor/jquery/jquery.min.js"></script>
-  <script src="vendor/bootstrap/js/bootstrap.min.js"></script>
-
-  <script src="assets/js/isotope.min.js"></script>
-  <script src="assets/js/owl-carousel.js"></script>
-  <script src="assets/js/tabs.js"></script>
-  <script src="assets/js/popup.js"></script>
-  <script src="assets/js/custom.js"></script>
-
+  <?php include '../Kok/php/footer.php';?>
   </body>
 </html>
