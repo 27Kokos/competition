@@ -171,7 +171,7 @@
           <div class="section-heading">
             <h2>Популярные <em>ИИ</em> <span>Инструменты</span></h2>
             <div class="line-dec"></div>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed doers eiusmod.</p>
+            <p>Существует множество ИИ инструментов для различных задач.</p>
           </div>
         </div>
       </div> 
@@ -181,45 +181,45 @@
         <div class="col-lg-12">
           <div class="owl-features owl-carousel">
             <div class="item">
-              <img src="/kok/assets/images/projects-01.jpg" alt="">
+              <img src="/kok/assets/images/ser1.png" alt="">
               <div class="down-content">
-                <h4>Digital Agency HTML Templates</h4>
-                <a href="#"><i class="fa fa-link"></i></a>
+                <h4>Универсальная поисковая система </h4>
+                <a href="https://www.perplexity.ai/" target="_blank"><i class="fa fa-link"></i></a>
               </div>
             </div>
             <div class="item">
-              <img src="/kok/assets/images/projects-02.jpg" alt="">
+              <img src="/kok/assets/images/ser2.png" alt="">
               <div class="down-content">
-                <h4>Admin Dashboard CSS Templates</h4>
-                <a href="#"><i class="fa fa-link"></i></a>
+                <h4>Оптимизация создания презентаций</h4>
+                <a href="https://tome.app/" target="_blank"><i class="fa fa-link"></i></a>
               </div>
             </div>
             <div class="item">
-              <img src="/kok/assets/images/projects-03.jpg" alt="">
+              <img src="/kok/assets/images/ser3.png" alt="">
               <div class="down-content">
-                <h4>Best Responsive Website Layouts</h4>
-                <a href="#"><i class="fa fa-link"></i></a>
+                <h4>Ваш ключ к бесплатным индивидуальным курсам</h4>
+                <a href="https://www.tutorai.me/" target="_blank"><i class="fa fa-link"></i></a>
               </div>
             </div>
             <div class="item">
-              <img src="/kok/assets/images/projects-04.jpg" alt="">
+              <img src="/kok/assets/images/ser4.png" alt="">
               <div class="down-content">
-                <h4>HTML CSS Layouts for your websites</h4>
-                <a href="#"><i class="fa fa-link"></i></a>
+                <h4>Напишет текст в любой стилистике</h4>
+                <a href="https://yandex.ru/project/alice/yagpt" target="_blank"><i class="fa fa-link"></i></a>
               </div>
             </div>
             <div class="item">
-              <img src="/kok/assets/images/projects-02.jpg" alt="">
+              <img src="/kok/assets/images/ser5.png" alt="">
               <div class="down-content">
-                <h4>Bootstrap 5 Themes for Free</h4>
-                <a href="#"><i class="fa fa-link"></i></a>
+                <h4>Удалит фон без смс и регистрации</h4>
+                <a href="https://ru.pixian.ai/" target="_blank"><i class="fa fa-link"></i></a>
               </div>
             </div>
             <div class="item">
-              <img src="/kok/assets/images/projects-03.jpg" alt="">
+              <img src="/kok/assets/images/ser6.png" alt="">
               <div class="down-content">
-                <h4>Mobile Friendly Website Layouts</h4>
-                <a href="#"><i class="fa fa-link"></i></a>
+                <h4>создаёт изображения и короткие ролики</h4>
+                <a href="https://shedevrum.ai/" target="_blank"><i class="fa fa-link"></i></a>
               </div>
             </div>
           </div>
