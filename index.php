@@ -30,13 +30,12 @@
                           <a href="javascript:void(0)">Страницы</a>
                           <ul class="sub-menu">
                               <li><a href="/kok/about.php">Об ИИ</a></li>
-                              <li><a href="/kok/faqs.php">FAQ</a></li>
                           </ul>
                       </li>
                       <li class="scroll-to-section"><a href="#contact">Контакты</a></li>
                   </ul>   
                     <a class='menu-trigger'>
-                        <span>Menu</span>
+                        <span>Меню</span>
                     </a>
                     <!-- ***** Menu End ***** -->
                 </nav>
@@ -55,9 +54,8 @@
             <div class="line-dec"></div>
             <h4>Погрузимся<em> В мир </em> ИИ <span>С Kokodjam</span></h4>
             <p>Здесь вы немного узнаете об искусственном интеллекте <a href="index.html">Домой</a>, <a href="about.html">Об ИИ</a>, и <a href="faqs.html">Часто задаваемые вопросы об ИИ</a>.</p>
-            <div class="main-button scroll-to-section"><a href="#services">Узнайте больше</a></div>
-            <span>или</span>
-            <div class="second-button"><a href="faqs.html">FAQ</a></div>
+            <div class="main-button scroll-to-section"><a href="../kok/about.php">Узнайте больше</a></div>
+            
           </div>
         </div>
       </div>

@@ -753,6 +753,7 @@ Header Style
   .header-area .main-nav .nav li.has-sub ul.sub-menu {
     height: auto;
   }
+  
   .header-area .main-nav .nav li.has-sub:after {
     color: #3B566E;
     right: 30px;
@@ -1588,13 +1589,13 @@ Happy Clients Style
 
 .happy-clients ul.nacc li .info {
   margin-top: 30px;
+
 }
 
 .happy-clients ul.nacc li .info span {
   display: inline-block;
   background-color: #5b03e4;
   border-radius: 20px;
-  height: 40px;
   line-height: 40px;
   color: #fff;
   padding: 0px 20px;
@@ -1832,6 +1833,8 @@ Responsive Style
 body {
   overflow-x: hidden;
 }
+
+
 
 @media (max-width: 767px) {
   .pre-header {

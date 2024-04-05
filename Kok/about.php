@@ -25,13 +25,12 @@
                           <a href="javascript:void(0)">Страницы</a>
                           <ul class="sub-menu">
                               <li><a href="/kok/about.php">Об ИИ</a></li>
-                              <li><a href="/kok/faqs.php">FAQ</a></li>
                           </ul>
                       </li>
                       <li class="scroll-to-section"><a href="#contact">Контакты</a></li>
                   </ul>   
                     <a class='menu-trigger'>
-                        <span>Menu</span>
+                        <span>Меню</span>
                     </a>
                     <!-- ***** Menu End ***** -->
                 </nav>
@@ -51,8 +50,6 @@
             <h4>Погрузимся<em> В мир </em> ИИ <span>С Kokodjam</span></h4>
             <p>Здесь вы немного узнаете об искусственном интеллекте <a href="index.html">Домой</a>, <a href="about.html">Об ИИ</a>, и <a href="faqs.html">Часто задаваемые вопросы об ИИ</a>.</p>
             <div class="main-button"><a href="#">Узнайте больше</a></div>
-            <span>или</span>
-            <div class="second-button"><a href="#">Check our FAQs</a></div>
           </div>
         </div>
         <div class="col-lg-5 align-self-center">
@@ -62,51 +59,18 @@
     </div>
   </div>
 
-  <div class="video-info section">
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-6">
-          <div class="video-thumb">
-            <img src="assets/images/video-thumb.jpg" alt="">
-            <a href="http://youtube.com" target="_blank"><i class="fa fa-play"></i></a>
-          </div>
-        </div>
-        <div class="col-lg-6 align-self-center">
-          <div class="section-heading">
-            <h2>Detailed Information On What We Do &amp; Who We Are</h2>
-            <div class="line-dec"></div>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed doers eiusmod tempor incididunt ut labore et dolore dolor.</p>
-          </div>
-          <div class="skills">
-            <div class="skill-slide marketing">
-              <div class="fill"></div>
-              <h6>SEO Marketing</h6>
-              <span>90%</span>
-            </div>
-            <div class="skill-slide digital">
-              <div class="fill"></div>
-              <h6>Digital Marketing</h6>
-              <span>80%</span>
-            </div>
-            <div class="skill-slide media">
-              <div class="fill"></div>
-              <h6>Social Media Management</h6>
-              <span>95%</span>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
+
+
+ 
 
   <div class="happy-clients section">
     <div class="container">
       <div class="row">
         <div class="col-lg-12">
           <div class="section-heading">
-            <h2>Our 4 Steps <em>To Success</em> &amp; <span>Happy Clients</span></h2>
+            <h2>Обзор <em>Искусственного интеллекта</em> <span>в 4 точках</span></h2>
             <div class="line-dec"></div>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed doers.</p>
+            <p>Здесь вы вкратце узнаете об ИИ</p>
           </div>
         </div>
         <div class="col-lg-12">
@@ -115,10 +79,10 @@
               <div class="row">
                 <div class="col-lg-12">
                   <div class="menu">
-                    <div class="active"><span>Project Introduction</span></div>
-                    <div><span>Work Development</span></div>
-                    <div><span>Data Analysis</span></div>
-                    <div class="last-item"><span>Project Finishing</span></div>
+                    <div class="active"><span>История возникновения</span></div>
+                    <div><span>Сферы применения ИИ</span></div>
+                    <div><span>Принципы искусственного интеллекта</span></div>
+                    <div class="last-item"><span>Перспективы развития</span></div>
                   </div>
                 </div>
                 <div class="col-lg-12">
@@ -127,16 +91,25 @@
                       <div>
                         <div class="row">
                           <div class="col-lg-7">
-                            <h4>Best CSS Templates for you</h4>
+                            <h4>Исторический мини обзор пути к созданию искусственного интеллекта</h4>
                             <div class="line-dec"></div>
-                            <p>Tale is the best SEO agency website template using Bootstrap v5.2.2 CSS for your company. It is a free download provided by TemplateMo. There are 3 HTML pages, <a href="index.html">Home</a>, <a href="about.html">About</a>, and <a href="faqs.html">FAQ</a>.</p>
+                            <p>Несмотря на медиашум вокруг Chat GPT и генеративных нейросетей,
+                               искусственный интеллект — не новая область исследований.<a href="../index.php">Домой</a></p>
                             <div class="info">
-                              <span>Website Design</span>
-                              <span>User Interface</span>
-                              <span>User Experience</span>
-                              <span class="last-span">Digital Agency</span>
+                              <h2 style="color: #2a2a2a">1940-1950</h2>
+                              <span> Исследования Алана Тьюринга, Джона фон Неймана, Норберта Винера. Первые 
+                                модели вычислительных машин и идеи о том, как машины могут имитировать человеческое мышление.</span>
+                              <h2 style="color: #2a2a2a">1960-1970</h2>
+                              <span>Разработаны символьные методы ИИ. Появились компьютерные программы, 
+                                способные решать задачи с помощью логики и экспертных знаний.</span>
+                              <h2 style="color: #2a2a2a">1980-1990</h2>
+                              <span>Разработаны алгоритмы обучения с подкреплением. 
+                                ИИ может самостоятельно изучать и улучшать свои навыки, опираясь на обратную связь от окружающей среды.</span>
+                              <h2 style="color: #2a2a2a">1990-Н.В</h2>
+                              <span class="last-span">Нейронные сети и глубокое обучение стали основными технологиями ИИ. 
+                                Они обрабатывают сложные данные, распознают и генерируют изображения, общаются на естественном языке.</span>
                             </div>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed doers eiusmod tempor incididunt ut labore et dolore dolor dolor sit amet, consectetur adipicing elit, sed doers eiusmod.</p>
+                            
                           </div>
                           <div class="col-lg-5 align-self-center">
                             <img src="assets/images/happyclient-01.jpg" alt="">
@@ -148,16 +121,27 @@
                       <div>
                         <div class="row">
                           <div class="col-lg-7">
-                            <h4>Detailed Information On What We Do</h4>
+                            <h4>Исследование разнообразных областей применения искусственного интеллекта</h4>
                             <div class="line-dec"></div>
-                            <p>You are free to use this template for any purpose. You are not allowed to redistribute the downloadable ZIP file of Tale SEO Template on any other template website. Please contact us. Thank you.</p>
+                            <p>
+                              В мире современных технологий искусственный интеллект становится всё более важным. 
+                              Необходимо понять его роль в различных сферах жизни</p>
                             <div class="info">
-                              <span>HTML CSS</span>
-                              <span>Bootstrap 5</span>
-                              <span>TemplateMo</span>
-                              <span class="last-span">Development</span>
+                            <h2 style="color: #2a2a2a">Голосовые помощники</h2>
+                              <span> Siri от Apple, Google Assistant, Alexa от Amazon и Алиса от Яндекса работают на основе ИИ и отвечают на вопросы,
+                                 делают напоминания, управляют устройствами.</span>
+                              <h2 style="color: #2a2a2a">Финансовые аналитические системы</h2>
+                              <span>ИИ используется для анализа данных, 
+                                прогнозирования трендов на рынке, определения рисков и принятия решений по инвестициям. </span>
+                              <h2 style="color: #2a2a2a">Медицинская диагностика</h2>
+                              <span>ИИ используют, чтобы анализировать рентгеновские снимки или снимки МРТ. </span>
+                              <h2 style="color: #2a2a2a">Распознавание образов</h2>
+                              <span class="last-span">В смартфонах и некоторых фотоаппаратах 
+                                есть функция автоматического распознавания лиц и объектов.</span>
                             </div>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed doers eiusmod tempor incididunt ut labore et dolore dolor dolor sit amet, consectetur adipicing elit, sed doers eiusmod.</p>
+                            <p>Искусственный интеллект широко применяется в различных сферах жизни, от медицины до транспорта и финансов. 
+                              Вместе с новыми возможностями возникают вопросы об этике и безопасности. 
+                              Развитие ИИ требует баланса между преимуществами и социальными аспектами его использования.</p>
                           </div>
                           <div class="col-lg-5 align-self-center">
                             <img src="assets/images/happyclient-01.jpg" alt="">
@@ -169,16 +153,25 @@
                       <div>
                         <div class="row">
                           <div class="col-lg-7">
-                            <h4>Responsive HTML CSS Templates</h4>
+                            <h4>Основные концепции и принципы функционирования искусственного интеллекта</h4>
                             <div class="line-dec"></div>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed doers eiusmod kent tempor incididunt ut labore et dolore dolor.</p>
+                            <p> С развитием технологий, искусственный интеллект становится все более важным. 
+                              Понимание его принципов - ключ к использованию этой технологии.</p>
                             <div class="info">
-                              <span>SEO Trend</span>
-                              <span>Digital Agency</span>
-                              <span>Best Template</span>
-                              <span class="last-span">Development</span>
+                              <h2 style="color: #2a2a2a">Большой объём данных</h2>  
+                              <span> ИИ нужен доступ к большим объёмам данных для обучения, обработки и принятия решений. 
+                                  Системы распознавания рукописного текста обучаются на тысячах образцов текста.</span>
+                              <h2 style="color: #2a2a2a">Вычислительная мощность</h2>
+                              <span>Представим, что мы учим нейронную сеть распознавать изображения. Более мощные вычислительные системы позволяют обрабатывать 
+                                большое количество изображений и ускоряют процесс обучения. </span>
+                              <h2 style="color: #2a2a2a">Алгоритмы и модели машинного обучения</h2>
+                              <span>Например, использование глубоких нейронных сетей вместо более простых алгоритмов 
+                                может улучшить точность предсказания искусственного интеллекта в задачах распознавания изображений или речи. </span>
+                              <h2 style="color: #2a2a2a">Интеграция с другими системами.</h2>
+                              <span class="last-span">ИИ для автоматизации процесса заказа товаров в интернет-магазине должен взаимодействовать 
+                                с системами управления запасами, доставки и платёжными системами.</span>
                             </div>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed doers eiusmod tempor incididunt ut labore et dolore dolor dolor sit amet, consectetur adipicing elit, sed doers eiusmod.</p>
+                            <p>Принципы искусственного интеллекта играют важную роль в нашей жизни и будущем технологий, помогая нам лучше использовать его и соблюдать этические нормы.</p>
                           </div>
                           <div class="col-lg-5 align-self-center">
                             <img src="assets/images/happyclient-01.jpg" alt="">
@@ -190,16 +183,19 @@
                       <div>
                         <div class="row">
                           <div class="col-lg-7">
-                            <h4>Detailed Information about SEO Techniques</h4>
-                            <div class="line-dec"></div>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed doers eiusmod kent tempor incididunt ut labore et dolore dolor.</p>
+                            
                             <div class="info">
-                              <span>Data Analysis</span>
-                              <span>SEO Trend</span>
-                              <span>Templates</span>
-                              <span class="last-span">Research</span>
+                            <article>
+                              <h2 style="color: #2a2a2a">Что говорят аналитики</h2>
+                              <h7>В 2022—2023 годах многих волнует генеративный ИИ. 
+                                Бизнес хочет использовать его, чтобы сократить расходы, а специалисты боятся, что он отнимет у них работу. 
+                                Консалтинговая компания McKinsey спрогнозировала влияние generative AI на производительность, автоматизацию и рабочую силу. 
+                                Согласно новому отчету, генеративный ИИ может ежегодно приносить мировой экономике от 2,6 до 4,4 триллионов долларов (примерно 2–4% от совокупного мирового валового внутреннего продукта в этом году). </h7>
+                                
+                              </article>
+                            </section>
                             </div>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed doers eiusmod tempor incididunt ut labore et dolore dolor dolor sit amet, consectetur adipicing elit, sed doers eiusmod.</p>
+                            <p></p>
                           </div>
                           <div class="col-lg-5 align-self-center">
                             <img src="assets/images/happyclient-01.jpg" alt="">
