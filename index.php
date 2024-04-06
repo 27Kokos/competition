@@ -121,7 +121,7 @@
             <div class="row">
               <div class="col-lg-6">
                 <div class="left-image">
-                  <img src="/kok/assets/images/left-infos.jpg" alt="">
+                  <img src="/kok/assets/images/left2.jpg" alt="">
                 </div>
               </div>
               <div class="col-lg-6">
